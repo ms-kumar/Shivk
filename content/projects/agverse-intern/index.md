@@ -32,6 +32,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, Firebase, Pandas, and Hidden Markov Models (HMM).
+{{< tech-stack >}}
+  {{< tech-group title="Data & ML" items="Python|Pandas|Hidden Markov Models" >}}
+  {{< tech-group title="Platform" items="Firebase" >}}
+{{< /tech-stack >}}
 
 <!--more-->

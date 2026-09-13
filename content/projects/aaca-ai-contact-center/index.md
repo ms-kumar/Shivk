@@ -41,6 +41,10 @@ highlights:
 
 ## Tech Stack
 
-- Python, FastAPI, WebSockets, OpenAI Realtime API, Twilio, Milvus, Redis, MongoDB, Docker, MinIO, Postgres, JWT, and Cloud Run.
+{{< tech-stack >}}
+  {{< tech-group title="Voice & AI" items="Python|OpenAI Realtime API|Twilio|WebSockets" >}}
+  {{< tech-group title="Backend & Data" items="FastAPI|Milvus|Redis|MongoDB|JWT" >}}
+  {{< tech-group title="Deployment" items="Docker|MinIO|Postgres|Cloud Run" >}}
+{{< /tech-stack >}}
 
 <!--more-->

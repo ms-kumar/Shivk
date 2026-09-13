@@ -33,6 +33,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, PyTorch, mmdet, SOLOv2, OpenCV, YOLO, LIME, and Linux.
+{{< tech-stack >}}
+  {{< tech-group title="Computer Vision" items="Python|PyTorch|SOLOv2|mmdet|YOLO|LIME" >}}
+  {{< tech-group title="Image Processing" items="OpenCV|Linux" >}}
+{{< /tech-stack >}}
 
 <!--more-->

@@ -34,6 +34,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, Google ADK, Vertex AI, FastAPI, Cloud SQL, PostgreSQL, Prometheus, Docker, and Cloud Run.
+{{< tech-stack >}}
+  {{< tech-group title="AI & Platform" items="Python|Google ADK|Vertex AI|FastAPI" >}}
+  {{< tech-group title="Data & Operations" items="Cloud SQL|PostgreSQL|Prometheus|Docker|Cloud Run" >}}
+{{< /tech-stack >}}
 
 <!--more-->

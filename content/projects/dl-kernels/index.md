@@ -37,6 +37,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, C++, PyTorch, TensorFlow, TPC kernels, ONNX, Netron, and Linux.
+{{< tech-stack >}}
+  {{< tech-group title="Frameworks" items="Python|PyTorch|TensorFlow" >}}
+  {{< tech-group title="Acceleration & Tooling" items="C++|TPC Kernels|ONNX|Netron|Linux" >}}
+{{< /tech-stack >}}
 
 <!--more-->

@@ -34,6 +34,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, C++, PyTorch, ONNX, Qualcomm SDKs, and Linux.
+{{< tech-stack >}}
+  {{< tech-group title="ML & Runtime" items="Python|PyTorch|ONNX" >}}
+  {{< tech-group title="Edge & Systems" items="C++|Qualcomm SDKs|Linux" >}}
+{{< /tech-stack >}}
 
 <!--more-->

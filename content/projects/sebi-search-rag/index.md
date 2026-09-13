@@ -41,6 +41,9 @@ highlights:
 
 ## Tech Stack
 
-- Python, FastAPI, Docling, Jina v5, Milvus, BM25, ModernBERT, vLLM, OpenAI-compatible APIs, Redis, FAISS, Prometheus, Docker, and RHEL 9.
+{{< tech-stack >}}
+  {{< tech-group title="Retrieval & NLP" items="Docling|Jina v5|BM25|ModernBERT|vLLM|OpenAI APIs" >}}
+  {{< tech-group title="Platform & Operations" items="Python|FastAPI|Milvus|Redis|FAISS|Prometheus|Docker|RHEL 9" >}}
+{{< /tech-stack >}}
 
 <!--more-->
