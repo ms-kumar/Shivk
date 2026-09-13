@@ -1,0 +1,128 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Shiv Kumar
+  given: Shiv
+  family: Kumar
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+email: kumar.shiv.pms@gmail.com
+status:
+  icon: "🚀"
+role: Lead Engineer — GenAI / Agentic AI & Applied ML
+bio: |
+  Lead Engineer with 5 years shipping production AI — GenAI, RAG, and Agentic AI from prototype to scale.
+  I lead design and delivery of realtime voice AI, enterprise knowledge retrieval, and compliance-grade RAG:
+  sub-second speech-to-speech, 80% retrieval hit rate, 75% CPU reduction on edge.
+  Stack: Python, FastAPI, Google ADK, Vertex AI, OpenAI, Milvus, Redis, MongoDB, Docker, GCP.
+
+affiliations:
+  - name: HCL Technologies Limited
+    url: https://www.hcltech.com/
+
+links:
+  - icon: at-symbol
+    url: mailto:kumar.shiv.pms@gmail.com
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/shivk950
+  - icon: hero/document-text
+    url: uploads/resume.pdf
+    label: Download CV
+
+interests:
+  - Production GenAI / LLM Systems
+  - Agentic Workflows / Tool Calling
+  - RAG / Hybrid Search / Reranking
+  - Realtime Voice AI / WebSockets
+  - Computer Vision / ADAS / Sensor Fusion
+  - MLOps / Docker / Cloud Run / Vertex AI
+
+education:
+  - degree: BTech Electrical Engineering
+    institution: Indian Institute of Technology (IIT) Bhilai
+    start: 2017-07-01
+    end: 2021-07-31
+    summary: |
+      BTech in Electrical Engineering, IIT Bhilai (2017–2021).
+
+experience:
+  - role: Lead Engineer
+    org: HCL Technologies Limited, Noida
+    start: 2025-06-01
+    summary: |
+      Tech lead for production GenAI: IFRS invoice/FP&A agents (Google ADK, Vertex AI), AACA realtime contact-center (OpenAI Realtime + Twilio, Milvus RAG, Redis pub/sub), SEBI regulatory RAG (Jina v5 + BM25, ModernBERT rerank, citation-constrained generation, offline Docker). Focus: architecture, latency, reliability, and handoff to ops.
+
+      **HCL Projects**
+
+      <a href="/shivkumar-portfolio/projects/ifrs-agents/" class="text-primary-600 dark:text-primary-400 underline font-semibold">IFRS Agents</a> — Invoice anomaly detection and FP&A variance analysis using Google ADK and Vertex AI.<br>
+      <a href="/shivkumar-portfolio/projects/aaca-ai-contact-center/" class="text-primary-600 dark:text-primary-400 underline font-semibold">AACA</a> — Realtime voice AI contact-center platform with OpenAI Realtime API + Twilio and Milvus vector RAG.<br>
+      <a href="/shivkumar-portfolio/projects/sebi-search-rag/" class="text-primary-600 dark:text-primary-400 underline font-semibold">SEBI Search</a> — Regulatory RAG and grounded document search with Jina v5 + BM25 and ModernBERT reranking.
+  - role: Senior Software Engineer
+    org: PathPartner Technology (KPIT), Bangalore
+    start: 2021-07-01
+    end: 2025-05-31
+    summary: |
+      Shipped edge vision and accelerator software across computer vision, BEV segmentation, and deep learning kernel optimization.
+
+      **PathPartner / KPIT Projects**
+
+      <a href="/shivkumar-portfolio/projects/image-stitching/" class="text-primary-600 dark:text-primary-400 underline font-semibold">Image Stitching</a> — ONNX + C++ pipeline on Qualcomm with 75% CPU reduction.<br>
+      <a href="/shivkumar-portfolio/projects/ces-content/" class="text-primary-600 dark:text-primary-400 underline font-semibold">CES — BEV Segmentation</a> — SOLOv2, OpenCV BEV blending, and multi-model segmentation/classification.<br>
+      <a href="/shivkumar-portfolio/projects/dl-kernels/" class="text-primary-600 dark:text-primary-400 underline font-semibold">Deep Learning Kernels</a> — PyTorch/TensorFlow to TPC kernels in C++, with ONNX and Netron delivery.
+  - role: Software Engineer Intern
+    org: AgVerse Technology, Bangalore
+    start: 2020-02-01
+    end: 2020-06-30
+    summary: |
+      Built telemetry and ML data-processing foundations during an engineering internship.
+
+      **AgVerse Project**
+
+      <a href="/shivkumar-portfolio/projects/agverse-intern/" class="text-primary-600 dark:text-primary-400 underline font-semibold">AgVerse Analytics</a> — Firebase telemetry, on-demand preprocessing, and Baum-Welch HMM estimation.
+
+skills:
+  - name: Languages
+    items:
+      - label: Python
+        level: 5
+      - label: C/C++
+        level: 4
+  - name: AI / ML
+    items:
+      - label: Generative AI / LLMs / Agents / RAG
+        level: 5
+      - label: PyTorch / TensorFlow / Hugging Face
+        level: 5
+      - label: Computer Vision / ADAS / Fusion
+        level: 4
+      - label: vLLM / Embeddings / Reranking / OCR
+        level: 4
+  - name: Backend / Infra
+    items:
+      - label: FastAPI / WebSockets / Microservices
+        level: 5
+      - label: Docker / Linux / GitHub
+        level: 5
+      - label: Milvus / Redis / MongoDB / Postgres
+        level: 4
+      - label: GCP Vertex AI / Cloud Run / Twilio
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
+
+awards:
+  - title: Best Paper Award (one of two IEEE papers)
+    awarder: IEEE ICRAIS 2023
+    date: "2023-11-01"
+    summary: Awarded for one of two published IEEE International conference papers.
+    icon: hero/trophy
