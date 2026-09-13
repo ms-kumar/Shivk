@@ -8,3 +8,15 @@
   width: 2rem;
   height: 2rem;
 }
+
+#papers .p-8 {
+  padding: 1.25rem;
+}
+
+#papers .space-y-4 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.75rem;
+}
+
+#papers [class*="aspect-[16/9]"] {
+  aspect-ratio: 2 / 1;
+}
