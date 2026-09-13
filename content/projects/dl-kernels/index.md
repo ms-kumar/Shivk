@@ -27,13 +27,15 @@ highlights:
 
 ## Project Details
 
-- Built a PyTorch and TensorFlow software suite for accelerator training and inference.
-- Debugged deep-learning kernels and investigated performance bottlenecks.
-- Mapped PyTorch operations to TPC kernels in C++.
-- Implemented custom operators using TPC kernels.
-- Exported trained models to ONNX for deployment.
-- Used Netron to inspect and validate exported model graphs.
-- Focused on high-performance execution across training and inference workloads.
+{{< project-details >}}
+  {{< project-detail number="01" title="Accelerator Framework" >}}Built a PyTorch and TensorFlow software suite for accelerator training and inference.{{< /project-detail >}}
+  {{< project-detail number="02" title="Kernel Debugging" >}}Debugged deep-learning kernels and investigated performance bottlenecks.{{< /project-detail >}}
+  {{< project-detail number="03" title="TPC Mapping" >}}Mapped PyTorch operations to TPC kernels in C++.{{< /project-detail >}}
+  {{< project-detail number="04" title="Custom Operators" >}}Implemented custom operators using TPC kernels.{{< /project-detail >}}
+  {{< project-detail number="05" title="Model Export" >}}Exported trained models to ONNX for deployment.{{< /project-detail >}}
+  {{< project-detail number="06" title="Graph Validation" >}}Used Netron to inspect and validate exported model graphs.{{< /project-detail >}}
+  {{< project-detail number="07" title="Performance Focus" >}}Optimized execution across training and inference workloads.{{< /project-detail >}}
+{{< /project-details >}}
 
 ## Tech Stack
 

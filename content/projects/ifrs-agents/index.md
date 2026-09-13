@@ -24,13 +24,14 @@ highlights:
 
 ## Project Details
 
-- Built Google ADK agents deployed on Vertex AI for finance automation.
-- Developed invoice anomaly detection using vendor history and confidence scoring.
-- Added evidence-backed severity routing for faster investigation and escalation.
-- Compared SAP actuals with budget and forecast data for FP&A variance analysis.
-- Generated root-cause drivers and management-ready variance commentary.
-- Used PostgreSQL on Cloud SQL for persistent finance data.
-- Added Prometheus observability and Cloud Run deployment support.
+{{< project-details >}}
+  {{< project-detail number="01" title="Agent Architecture" >}}Built Google ADK agents deployed on Vertex AI for finance automation.{{< /project-detail >}}
+  {{< project-detail number="02" title="Invoice Intelligence" >}}Developed invoice anomaly detection using vendor history and confidence scoring.{{< /project-detail >}}
+  {{< project-detail number="03" title="Evidence-Based Routing" >}}Added severity routing with supporting evidence for faster investigation and escalation.{{< /project-detail >}}
+  {{< project-detail number="04" title="FP&A Analysis" >}}Compared SAP actuals with budget and forecast data to identify variance drivers.{{< /project-detail >}}
+  {{< project-detail number="05" title="Executive Reporting" >}}Generated root-cause explanations and management-ready variance commentary.{{< /project-detail >}}
+  {{< project-detail number="06" title="Production Operations" >}}Used PostgreSQL on Cloud SQL, Prometheus observability, and Cloud Run deployment support.{{< /project-detail >}}
+{{< /project-details >}}
 
 ## Tech Stack
 

@@ -24,11 +24,13 @@ highlights:
 
 ## Project Details
 
-- Set up Firebase server support to collect and analyze telemetry data.
-- Built an on-demand data-preprocessing pipeline.
-- Processed telemetry data with Python, Pandas, and Firebase services.
-- Implemented Baum-Welch algorithm-based parameter estimation.
-- Performed hidden Markov model state estimation for product analytics.
+{{< project-details >}}
+  {{< project-detail number="01" title="Telemetry Platform" >}}Set up Firebase server support to collect and analyze telemetry data.{{< /project-detail >}}
+  {{< project-detail number="02" title="Data Processing" >}}Built an on-demand data-preprocessing pipeline.{{< /project-detail >}}
+  {{< project-detail number="03" title="Analytics Workflow" >}}Processed telemetry data with Python, Pandas, and Firebase services.{{< /project-detail >}}
+  {{< project-detail number="04" title="HMM Estimation" >}}Implemented Baum-Welch algorithm-based parameter estimation.{{< /project-detail >}}
+  {{< project-detail number="05" title="State Modeling" >}}Performed hidden Markov model state estimation for product analytics.{{< /project-detail >}}
+{{< /project-details >}}
 
 ## Tech Stack
 

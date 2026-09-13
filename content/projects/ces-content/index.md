@@ -25,11 +25,13 @@ highlights:
 
 ## Project Details
 
-- Trained SOLOv2 instance-segmentation models on custom datasets.
-- Built OpenCV-based image blending for bird's-eye-view outputs.
-- Designed a multi-model architecture combining instance segmentation and image classification.
-- Created end-to-end training and testing pipelines.
-- Used LIME for YOLO feature extraction and model visualization.
+{{< project-details >}}
+  {{< project-detail number="01" title="Instance Segmentation" >}}Trained SOLOv2 models on custom datasets for automotive vision workloads.{{< /project-detail >}}
+  {{< project-detail number="02" title="Bird's-Eye View" >}}Built OpenCV-based image blending for bird's-eye-view outputs.{{< /project-detail >}}
+  {{< project-detail number="03" title="Multi-Model Design" >}}Combined instance segmentation and multi-image classification in one architecture.{{< /project-detail >}}
+  {{< project-detail number="04" title="ML Pipelines" >}}Created end-to-end training and testing pipelines for repeatable experiments.{{< /project-detail >}}
+  {{< project-detail number="05" title="Model Explainability" >}}Used LIME for YOLO feature extraction and model visualization.{{< /project-detail >}}
+{{< /project-details >}}
 
 ## Tech Stack
 

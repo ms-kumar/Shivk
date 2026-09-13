@@ -26,11 +26,13 @@ highlights:
 
 ## Project Details
 
-- Converted a deep-learning feature-detection model to ONNX.
-- Prepared the model for Qualcomm target-device formats.
-- Integrated feature detection and matching into a C++ production pipeline.
-- Deployed the pipeline on Qualcomm hardware for realtime edge processing.
-- Optimized the runtime to reduce CPU usage by 75%.
+{{< project-details >}}
+  {{< project-detail number="01" title="Model Conversion" >}}Converted a deep-learning feature-detection model to ONNX.{{< /project-detail >}}
+  {{< project-detail number="02" title="Edge Packaging" >}}Prepared the model for Qualcomm target-device formats.{{< /project-detail >}}
+  {{< project-detail number="03" title="C++ Integration" >}}Integrated feature detection and matching into a production C++ pipeline.{{< /project-detail >}}
+  {{< project-detail number="04" title="Realtime Deployment" >}}Deployed the pipeline on Qualcomm hardware for realtime edge processing.{{< /project-detail >}}
+  {{< project-detail number="05" title="Performance Gain" >}}Optimized the runtime to reduce CPU usage by 75%.{{< /project-detail >}}
+{{< /project-details >}}
 
 ## Tech Stack
 
