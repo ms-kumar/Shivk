@@ -22,7 +22,6 @@ abstract: >-
   predicts person masks and per-pixel color, size, and pattern descriptors
   simultaneously, enabling robust detection when color or scale varies.
 summary: >-
-  Person detection with color, size, and pattern characteristic parsing —
   IEEE ICRAIS 2023.
 tags:
   - Computer Vision

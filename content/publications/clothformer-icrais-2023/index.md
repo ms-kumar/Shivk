@@ -23,7 +23,6 @@ abstract: >-
   attends to clothing regions while suppressing irrelevant background context,
   achieving improved parsing accuracy on standard benchmarks.
 summary: >-
-  Boundary-aware self-attention network for human outfit parsing —
   IEEE ICRAIS 2023.
 tags:
   - Computer Vision

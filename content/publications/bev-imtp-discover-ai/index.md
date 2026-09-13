@@ -33,8 +33,7 @@ abstract: >-
   reaches 3.1 FPS on a single Tesla V100 GPU. Evaluation on nuScenes and Lyft
   demonstrates robust generalization across camera configurations.
 summary: >-
-  Lightweight multi-task learning for joint bird's-eye-view instance mapping
-  and trajectory prediction — Discover Artificial Intelligence, 2026.
+  Discover Artificial Intelligence 2026.
 tags:
   - Autonomous Driving
   - Bird's-Eye View
