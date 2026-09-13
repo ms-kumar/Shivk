@@ -14,10 +14,11 @@ status:
   icon: "🚀"
 role: Lead Engineer — GenAI / Agentic AI & Applied ML
 bio: |
-  Lead Engineer with 5 years shipping production AI — GenAI, RAG, and Agentic AI from prototype to scale.
-  I lead design and delivery of realtime voice AI, enterprise knowledge retrieval, and compliance-grade RAG:
-  sub-second speech-to-speech, 80% retrieval hit rate, 75% CPU reduction on edge.
-  Stack: Python, FastAPI, Google ADK, Vertex AI, OpenAI, Milvus, Redis, MongoDB, Docker, GCP.
+  Lead Engineer with 5 years of hands-on experience developing and deploying GenAI, RAG, Agentic AI, and deep learning systems from scratch.
+  I build production-grade AI platforms for realtime voice interaction, enterprise knowledge retrieval, regulatory search, and automated finance analysis.
+  My work spans NLP, autonomous driving, computer vision, and Camera-LiDAR-Radar fusion, with a focus on reliable architecture, model optimization, and scalable data pipelines.
+
+  **Stack:** Python, GCP, GenAI, LLMs, Agents, Docker, FastAPI, Cloud SQL, Google ADK, Vertex AI, Agent Engine, Cloud Run, OpenAI Realtime API, WebSockets, Redis, MongoDB, Milvus, JWT, Docling, BM25, ModernBERT, vLLM, and FAISS.
 
 affiliations:
   - name: HCL Technologies Limited
@@ -27,8 +28,14 @@ links:
   - icon: at-symbol
     url: mailto:kumar.shiv.pms@gmail.com
     label: E-mail Me
+  - icon: hero/phone
+    url: tel:+918319461975
+    label: Call Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/shivk950
+    url: https://www.linkedin.com/in/shivkp950
+  - icon: brands/github
+    url: https://github.com/ms-kumar
+    label: GitHub
   - icon: hero/document-text
     url: uploads/resume.pdf
     label: Download CV
@@ -54,31 +61,33 @@ experience:
     org: HCL Technologies Limited, Noida
     start: 2025-06-01
     summary: |
-      Tech lead for production GenAI: IFRS invoice/FP&A agents (Google ADK, Vertex AI), AACA realtime contact-center (OpenAI Realtime + Twilio, Milvus RAG, Redis pub/sub), SEBI regulatory RAG (Jina v5 + BM25, ModernBERT rerank, citation-constrained generation, offline Docker). Focus: architecture, latency, reliability, and handoff to ops.
+      Tech lead for production GenAI platforms across finance automation, realtime voice AI, and regulatory search. Designed systems for production reliability, latency, secure deployment, and operational handoff.
+
+      <strong>Stack:</strong> Python, FastAPI, Google ADK, Vertex AI, OpenAI, Milvus, Redis, MongoDB, Docker, GCP.
 
       **HCL Projects**
 
-      <a href="/shivkumar-portfolio/projects/ifrs-agents/" class="text-primary-600 dark:text-primary-400 underline font-semibold">IFRS Agents</a> — Invoice anomaly detection and FP&A variance analysis using Google ADK and Vertex AI.<br>
-      <a href="/shivkumar-portfolio/projects/aaca-ai-contact-center/" class="text-primary-600 dark:text-primary-400 underline font-semibold">AACA</a> — Realtime voice AI contact-center platform with OpenAI Realtime API + Twilio and Milvus vector RAG.<br>
-      <a href="/shivkumar-portfolio/projects/sebi-search-rag/" class="text-primary-600 dark:text-primary-400 underline font-semibold">SEBI Search</a> — Regulatory RAG and grounded document search with Jina v5 + BM25 and ModernBERT reranking.
+      <a href="/shivkumar-portfolio/projects/ifrs-agents/" class="text-primary-600 dark:text-primary-400 underline font-semibold">IFRS</a> — Invoice anomaly detection and FP&A variance analysis with Gemini/Google ADK, SAP data validation, and Vertex AI deployment.<br>
+      <a href="/shivkumar-portfolio/projects/aaca-ai-contact-center/" class="text-primary-600 dark:text-primary-400 underline font-semibold">AACA</a> — Production realtime voice AI with Twilio, OpenAI Realtime API, Milvus RAG, structured tool calling, and live human handoff.<br>
+      <a href="/shivkumar-portfolio/projects/sebi-search-rag/" class="text-primary-600 dark:text-primary-400 underline font-semibold">SEBiSearch</a> — Offline regulatory RAG with hybrid Jina/BM25 retrieval, ModernBERT reranking, citation-constrained generation, and Redis/FAISS caching.
   - role: Senior Software Engineer
     org: PathPartner Technology (KPIT), Bangalore
     start: 2021-07-01
     end: 2025-05-31
     summary: |
-      Shipped edge vision and accelerator software across computer vision, BEV segmentation, and deep learning kernel optimization.
+      Shipped edge vision and accelerator software across computer vision, BEV segmentation, and deep learning kernel optimization. Built production C++ pipelines, trained vision models, and mapped deep learning operators to accelerator kernels.
 
       **PathPartner / KPIT Projects**
 
-      <a href="/shivkumar-portfolio/projects/image-stitching/" class="text-primary-600 dark:text-primary-400 underline font-semibold">Image Stitching</a> — ONNX + C++ pipeline on Qualcomm with 75% CPU reduction.<br>
-      <a href="/shivkumar-portfolio/projects/ces-content/" class="text-primary-600 dark:text-primary-400 underline font-semibold">CES — BEV Segmentation</a> — SOLOv2, OpenCV BEV blending, and multi-model segmentation/classification.<br>
+      <a href="/shivkumar-portfolio/projects/image-stitching/" class="text-primary-600 dark:text-primary-400 underline font-semibold">Image Stitching</a> — ONNX and C++ feature detection/matching pipeline on Qualcomm, reducing CPU runtime by 75%.<br>
+      <a href="/shivkumar-portfolio/projects/ces-content/" class="text-primary-600 dark:text-primary-400 underline font-semibold">CES</a> — SOLOv2 training, OpenCV BEV blending, multi-model segmentation/classification, and LIME visualization.<br>
       <a href="/shivkumar-portfolio/projects/dl-kernels/" class="text-primary-600 dark:text-primary-400 underline font-semibold">Deep Learning Kernels</a> — PyTorch/TensorFlow to TPC kernels in C++, with ONNX and Netron delivery.
   - role: Software Engineer Intern
     org: AgVerse Technology, Bangalore
     start: 2020-02-01
     end: 2020-06-30
     summary: |
-      Built telemetry and ML data-processing foundations during an engineering internship.
+      Built Firebase telemetry and ML data-processing foundations during an engineering internship, including on-demand preprocessing and Baum-Welch HMM parameter and state estimation.
 
       **AgVerse Project**
 
@@ -91,26 +100,34 @@ skills:
         level: 5
       - label: C/C++
         level: 4
-  - name: AI / ML
+  - name: Developer Tools
     items:
-      - label: Generative AI / LLMs / Agents / RAG
+      - label: GitHub / Git / JIRA
         level: 5
-      - label: PyTorch / TensorFlow / Hugging Face
+      - label: VS Code / Linux
         level: 5
-      - label: Computer Vision / ADAS / Fusion
+      - label: Docker / GDB / PDB
         level: 4
-      - label: vLLM / Embeddings / Reranking / OCR
-        level: 4
-  - name: Backend / Infra
+  - name: Libraries & Frameworks
     items:
-      - label: FastAPI / WebSockets / Microservices
-        level: 5
-      - label: Docker / Linux / GitHub
-        level: 5
-      - label: Milvus / Redis / MongoDB / Postgres
+      - label: Pandas / NumPy / Matplotlib / Scikit-learn
         level: 4
-      - label: GCP Vertex AI / Cloud Run / Twilio
+      - label: PyTorch / TensorFlow / OpenCV
+        level: 5
+      - label: Hugging Face / Google ADK
+        level: 5
+  - name: AI & Systems
+    items:
+      - label: GenAI / LLMs / Agents / RAG
+        level: 5
+      - label: Computer Vision / ADAS / Camera-LiDAR-Radar Fusion
         level: 4
+      - label: vLLM / VectorDB / Redis / OCR
+        level: 4
+      - label: Google Cloud / Agent Engine / Cloud Run
+        level: 4
+      - label: SmLLM / Data Structures
+        level: 3
 
 languages:
   - name: English

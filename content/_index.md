@@ -76,6 +76,8 @@ sections:
               icon: custom/huggingface
             - name: OpenCV
               icon: devicon/opencv
+            - name: Google ADK
+              icon: hero/cpu-chip
         - name: Backend
           items:
             - name: FastAPI
@@ -115,13 +117,13 @@ sections:
           date_start: '2025-06-01'
           date_end: ''
           description: |2-
-            Tech lead for production GenAI: invoice/FP&A agents, realtime contact-center, and regulatory RAG. Focus: architecture, latency, reliability, and handoff to ops.
+            Tech lead for production GenAI platforms across finance automation, realtime voice AI, and regulatory search. Focus: architecture, latency, reliability, secure deployment, and operational handoff.
 
             **HCL Projects**
 
-            - [IFRS Agents](projects/ifrs-agents) — Invoice anomaly detection and FP&A variance analysis with Google ADK and Vertex AI.
-            - [AACA](projects/aaca-ai-contact-center) — Realtime voice AI with OpenAI Realtime API, Twilio, Milvus RAG, and Redis pub/sub.
-            - [SEBI Search](projects/sebi-search-rag) — Regulatory RAG with Jina v5, BM25, ModernBERT reranking, and citation-constrained generation.
+            - [IFRS](projects/ifrs-agents) — Gemini/Google ADK invoice anomaly detection and FP&A variance analysis with SAP data validation.
+            - [AACA](projects/aaca-ai-contact-center) — Realtime voice AI with Twilio, OpenAI Realtime API, Milvus RAG, tool calling, and human handoff.
+            - [SEBiSearch](projects/sebi-search-rag) — Offline regulatory RAG with Jina/BM25 retrieval, ModernBERT reranking, and grounded citations.
         - title: Senior Software Engineer
           company: PathPartner Technology (KPIT)
           company_url: ''
@@ -130,7 +132,7 @@ sections:
           date_start: '2021-07-01'
           date_end: '2025-05-31'
           description: |2-
-            Shipped edge vision and DL kernels: Image Stitching (ONNX + C++ pipeline on Qualcomm, 75% CPU reduction), CES — SOLOv2 training + OpenCV BEV blending + multi-model segmentation + classification, DL Kernels (PyTorch/TensorFlow → TPC kernels in C++, ONNX + Netron).
+            Shipped edge vision and accelerator software across computer vision, BEV segmentation, and deep learning kernel optimization.
         - title: Software Engineer Intern
           company: AgVerse Technology
           company_url: ''
@@ -139,7 +141,7 @@ sections:
           date_start: '2020-02-01'
           date_end: '2020-06-30'
           description: |2-
-            Firebase telemetry pipelines, on-demand data-preprocessing pipeline, Baum-Welch algorithm-based parameter and state estimation (HMM).
+            Firebase telemetry, on-demand preprocessing modules, and Baum-Welch HMM parameter and state estimation.
     design:
       columns: '1'
 
@@ -147,7 +149,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: 'IEEE ICRAIS 2023 — one Best Paper'
+      text: 'Discover Artificial Intelligence 2026 + IEEE ICRAIS 2023 — one Best Paper'
       filters:
         folders:
           - publications
