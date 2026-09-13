@@ -22,6 +22,12 @@ highlights:
   - "Baum-Welch HMM parameter estimation"
 ---
 
-Brought up Firebase server support to pull and analyze telemetry data. Created on-demand data-preprocessing pipeline mechanism. Performed Baum-Welch algorithm-based parameter and state estimation (HMM).
+## Project Details
+
+- Set up Firebase server support to collect and analyze telemetry data.
+- Built an on-demand data-preprocessing pipeline.
+- Processed telemetry data with Python, Pandas, and Firebase services.
+- Implemented Baum-Welch algorithm-based parameter estimation.
+- Performed hidden Markov model state estimation for product analytics.
 
 <!--more-->

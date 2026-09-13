@@ -25,6 +25,14 @@ highlights:
   - "High-performance training & inference"
 ---
 
-Built software suite with PyTorch/TensorFlow for high-performance training & inference on accelerators. Debugged kernels, mapped PyTorch kernels to TPC kernels in C++; built operators with TPC kernels, converted models to ONNX (Netron).
+## Project Details
+
+- Built a PyTorch and TensorFlow software suite for accelerator training and inference.
+- Debugged deep-learning kernels and investigated performance bottlenecks.
+- Mapped PyTorch operations to TPC kernels in C++.
+- Implemented custom operators using TPC kernels.
+- Exported trained models to ONNX for deployment.
+- Used Netron to inspect and validate exported model graphs.
+- Focused on high-performance execution across training and inference workloads.
 
 <!--more-->

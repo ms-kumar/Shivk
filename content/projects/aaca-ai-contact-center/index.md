@@ -27,6 +27,16 @@ highlights:
   - "Cloud Run-ready microservices"
 ---
 
-Microservices AI contact-center: latency-sensitive realtime voice edge (FastAPI + WebSocket) plus stateful control plane (FastAPI + MongoDB + JWT). Twilio Media Streams bridged to OpenAI Realtime API over WebSockets (g711 ulaw) for sub-second speech-to-speech. Milvus RAG with GenAI tool calling (KB search, customer verify, tickets). Redis pub/sub event bus for live agent handoff. Docker Compose (MongoDB, Redis, Milvus, MinIO, Postgres), Cloud Run-ready.
+## Project Details
+
+- Built a microservices-based AI contact-center platform for realtime voice interactions.
+- Developed a low-latency voice edge using FastAPI and WebSockets.
+- Built a stateful control plane with FastAPI, MongoDB, and JWT authentication.
+- Bridged Twilio Media Streams to the OpenAI Realtime API using G.711 u-law audio.
+- Achieved sub-second speech-to-speech interaction for live calls.
+- Added Milvus RAG with tool calling for knowledge search, customer verification, and ticket actions.
+- Used Redis pub/sub for cross-instance events and live-agent handoff.
+- Packaged MongoDB, Redis, Milvus, MinIO, and Postgres with Docker Compose.
+- Prepared the services for Cloud Run deployment.
 
 <!--more-->

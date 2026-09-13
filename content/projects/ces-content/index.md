@@ -23,6 +23,12 @@ highlights:
   - "LIME for YOLO feature extraction and visualization"
 ---
 
-Trained SOLOv2 on custom datasets; OpenCV-based image blending for BEV outputs. Built multi-model architecture: instance segmentation + multi-image classification; end-to-end train/test pipelines. Used LIME for YOLO feature extraction and visualization.
+## Project Details
+
+- Trained SOLOv2 instance-segmentation models on custom datasets.
+- Built OpenCV-based image blending for bird's-eye-view outputs.
+- Designed a multi-model architecture combining instance segmentation and image classification.
+- Created end-to-end training and testing pipelines.
+- Used LIME for YOLO feature extraction and model visualization.
 
 <!--more-->

@@ -22,6 +22,14 @@ highlights:
   - "Vertex AI + Cloud SQL + Prometheus"
 ---
 
-Google ADK agents on Vertex AI: Invoice Anomaly Detection (vendor history, confidence scoring, evidence-backed severity routing) and FP&A Variance Analysis (SAP actuals vs budget/forecast, root-cause drivers, management-ready commentary). Backed by PostgreSQL/Cloud SQL, Prometheus observability, Cloud Run.
+## Project Details
+
+- Built Google ADK agents deployed on Vertex AI for finance automation.
+- Developed invoice anomaly detection using vendor history and confidence scoring.
+- Added evidence-backed severity routing for faster investigation and escalation.
+- Compared SAP actuals with budget and forecast data for FP&A variance analysis.
+- Generated root-cause drivers and management-ready variance commentary.
+- Used PostgreSQL on Cloud SQL for persistent finance data.
+- Added Prometheus observability and Cloud Run deployment support.
 
 <!--more-->

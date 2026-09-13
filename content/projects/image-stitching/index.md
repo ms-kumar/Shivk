@@ -24,6 +24,12 @@ highlights:
   - "Real-time edge deployment"
 ---
 
-Converted feature-detection DL model to ONNX and target device formats for C++ pipeline integration. Built C++ pipeline with DL feature detection + matching; deployed on Qualcomm device for real-time edge processing, reducing CPU runtime by 75%.
+## Project Details
+
+- Converted a deep-learning feature-detection model to ONNX.
+- Prepared the model for Qualcomm target-device formats.
+- Integrated feature detection and matching into a C++ production pipeline.
+- Deployed the pipeline on Qualcomm hardware for realtime edge processing.
+- Optimized the runtime to reduce CPU usage by 75%.
 
 <!--more-->

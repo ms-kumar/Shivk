@@ -26,6 +26,17 @@ highlights:
   - "Redis/FAISS caching + Prometheus"
 ---
 
-Full RAG over thousands of SEBI docs: Docling PDF parsing → heading-aware chunking → Jina v5 embeddings → Milvus → hybrid (Jina + BM25) → ModernBERT reranking (80% hit rate, 75.8% nDCG) → citation-constrained vLLM/OpenAI generation with file/page/order grounding. Redis/FAISS caching, Prometheus metrics, 100% offline Docker Compose for RHEL 9 air-gapped VMs.
+## Project Details
+
+- Built a full RAG platform over thousands of SEBI regulatory documents.
+- Parsed PDF files with Docling and created heading-aware document chunks.
+- Generated document embeddings with Jina v5 and stored them in Milvus.
+- Combined vector search with BM25 keyword retrieval for hybrid search.
+- Added ModernBERT reranking, reaching an 80% retrieval hit rate and 75.8% nDCG.
+- Implemented citation-constrained generation with vLLM and OpenAI-compatible APIs.
+- Grounded answers to the source file, page number, and evidence order.
+- Added Redis and FAISS caching for faster repeated searches.
+- Added Prometheus metrics for system monitoring.
+- Delivered a fully offline Docker Compose deployment for RHEL 9 air-gapped VMs.
 
 <!--more-->
