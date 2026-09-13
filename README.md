@@ -50,6 +50,14 @@ hugo --gc --minify
 
 GitHub Actions builds and deploys the site to GitHub Pages from `main`.
 
+## Community
+
+- [Contributing guide](.github/CONTRIBUTING.md)
+- [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+- [Security Policy](.github/SECURITY.md)
+- [Issue templates](.github/ISSUE_TEMPLATE/)
+- [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md)
+
 ## License
 
 The site code is MIT licensed; see [`LICENSE.md`](LICENSE.md). Resume content, personal information, photographs, and project descriptions are personal content and should not be reused without permission.
