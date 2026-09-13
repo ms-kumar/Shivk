@@ -5,34 +5,28 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Misc
+title: Projects
 subtitle:
 
 design:
   columns: '2'
 ---
 
-## Japanese translation
+## Production GenAI Platforms
 
-- [Deep Learning for Generic Object Detection: A Survey (IJCV 2019) 日本語訳](https://shinya7y.github.io/note/detection/ObjectDetectionSurvey_jp.pdf)
+- **AACA — AI Contact-Center Platform:** realtime voice AI (FastAPI + WebSocket, Twilio + OpenAI Realtime API), Milvus RAG, Redis pub/sub event bus, MongoDB + JWT control plane, Docker Compose, Cloud Run-ready.
+- **SEBI Search — Regulatory RAG:** Docling PDF parsing, heading-aware chunking, Jina v5 + Milvus, BM25 hybrid, ModernBERT reranking (80% hit rate, 75.8% nDCG), citation-constrained generation, offline Docker deployment.
+- **IFRS Agents (Google ADK + Vertex AI):** Invoice Anomaly Detection Agent and FP&A Variance Analysis Agent with PostgreSQL/Cloud SQL persistence and Prometheus monitoring.
 
-## Survey and technical explanation
+## Edge AI / Vision
 
-- [Object detection technology map (SSII 2024)](https://confit.atlas.jp/guide/event/ssii2024/static/special_project_tech_map)
-- [SlideShare](https://www.slideshare.net/YosukeShinya/presentations)
-- [Speaker Deck](https://speakerdeck.com/shinya7y/)
+- **Image Stitching (Qualcomm edge):** ONNX + C++ pipeline, 75% CPU runtime reduction.
+- **CES / BEV:** SOLOv2 training, OpenCV blending, multi-model segmentation + classification, LIME/YOLO analysis.
+- **DL Kernels:** PyTorch/TensorFlow → TPC kernels (C++), ONNX + Netron visualization.
 
-## Unofficial demo
+## Contact
 
-- [Learning to Shadow Hand-drawn Sketches (CVPR 2020)](https://shinya7y.github.io/playground/shadesketch/)
-- [Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters (ECCVW 2018) with environment mapping](https://shinya7y.github.io/playground/envmaps.html)
-
-## Reviewer
-
-- NeurIPS Datasets and Benchmarks Track (2022)
-- BMVC (2020, 2022)
-
-## Membership
-
-- Computer Vision Foundation (CVF)
-- Survey member of cvpaper.challenge
+- Email: kumar.shiv.pms@gmail.com
+- Phone: +91 831-946-1975
+- GitHub: [github.com/ms-kumar](https://github.com/ms-kumar)
+- Education: BTech Electrical Engineering, IIT Bhilai (2017–2021)

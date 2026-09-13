@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yosuke Shinya is a research engineer in computer vision and deep learning.'
-    twitter: 'shinya7y'
+    description: 'Shiv Kumar is a Lead Engineer specializing in GenAI, RAG, Agentic AI, and deep learning.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yosuke Shinya.'
+    notice: '© {year} Shiv Kumar.'
     # notice: '© {year} Me. This work is licensed under {license}'
     # license:
     #   enable: true
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ms-kumar/shivkumar-portfolio'
     content_dir: content
     branch: main
   avatar:

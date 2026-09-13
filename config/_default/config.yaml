@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Yosuke Shinya'
-baseURL: 'https://shinya7y.github.io/'
+title: 'Shiv Kumar | Lead Engineer – GenAI & Agentic AI'
+baseURL: 'https://ms-kumar.github.io/shivkumar-portfolio/'
 
 # TODO check whether links work properly
 # If you find issues, canonifyurls may fix them

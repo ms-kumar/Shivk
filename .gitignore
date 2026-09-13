@@ -1,0 +1,21 @@
+# Hugo build artifacts
+/public/
+/resources/
+.hugo_build.lock
+assets/jsconfig.json
+hugo_stats.json
+
+# Hugo modules cache (local, CI re-downloads)
+# Do NOT ignore go.sum — it is required for reproducible builds
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (Netlify plugins, if used locally)
+node_modules/
+
+# Env
+.env
