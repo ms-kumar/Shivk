@@ -31,10 +31,6 @@ tags:
   - Self-Attention
   - Deep Learning
 featured: true
-links:
-  - type: custom
-    label: IEEE Xplore
-    url: https://ieeexplore.ieee.org/document/10367184
 image:
   caption: ''
   focal_point: ''
@@ -42,3 +38,5 @@ image:
 projects: []
 slides: ''
 ---
+
+Read the paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10367184).
