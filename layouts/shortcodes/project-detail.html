@@ -1,11 +1,11 @@
-<div class="group rounded-2xl border border-gray-200 bg-white/70 p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-md dark:border-white/[0.08] dark:bg-white/[0.03] dark:hover:border-primary-500/40">
-  <div class="flex items-start gap-3">
-    <div class="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary-600 text-xs font-bold text-white shadow-sm shadow-primary-500/25 dark:bg-primary-500">
+<div class="group rounded-2xl border border-gray-200 bg-white/70 p-4 shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-md dark:border-white/[0.08] dark:bg-white/[0.03] dark:hover:border-primary-500/40">
+  <div class="flex items-start gap-2.5">
+    <div class="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-primary-600 text-[11px] font-bold text-white shadow-sm shadow-primary-500/25 dark:bg-primary-500">
       {{ .Get "number" }}
     </div>
     <div>
       <h3 class="m-0 text-base font-semibold text-gray-900 dark:text-white">{{ .Get "title" }}</h3>
-      <div class="mt-1 text-sm leading-6 text-gray-600 dark:text-gray-300">{{ .Inner | markdownify }}</div>
+      <div class="mt-1 text-sm leading-5 text-gray-600 dark:text-gray-300">{{ .Inner | markdownify }}</div>
     </div>
   </div>
 </div>
