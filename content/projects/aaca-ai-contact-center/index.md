@@ -21,7 +21,7 @@ tech_stack:
   - Docker
   - Cloud Run
 featured: true
-status: "Live"
+status: "Internal"
 role: "Tech Lead"
 duration: "3 months"
 team_size: 4

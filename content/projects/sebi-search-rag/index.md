@@ -19,7 +19,7 @@ tech_stack:
   - FAISS
   - Docker
 featured: true
-status: "Live"
+status: "Internal"
 role: "Tech Lead"
 duration: "4 months"
 team_size: 3

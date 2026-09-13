@@ -77,7 +77,7 @@ sections:
             - name: OpenCV
               icon: devicon/opencv
             - name: Google ADK
-              icon: hero/cpu-chip
+              icon: custom/google-adk
         - name: Backend
           items:
             - name: FastAPI

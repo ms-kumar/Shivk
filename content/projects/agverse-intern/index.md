@@ -12,7 +12,7 @@ tech_stack:
   - Pandas
   - HMM
 featured: false
-status: "Internship"
+status: "Internal"
 role: "Software Engineer Intern"
 duration: "5 months"
 team_size: 2
