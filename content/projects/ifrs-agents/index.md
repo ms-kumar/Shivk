@@ -11,10 +11,6 @@ tech_stack:
   - FastAPI
   - Cloud SQL
   - Docker
-links:
-  - type: site
-    url: https://www.hcltech.com/
-    label: HCL (company project — code proprietary)
 featured: true
 status: "Live"
 role: "Lead Engineer"

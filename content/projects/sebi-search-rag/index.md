@@ -14,10 +14,6 @@ tech_stack:
   - vLLM
   - Redis
   - Docker
-links:
-  - type: site
-    url: https://www.hcltech.com/
-    label: HCL (company project — code proprietary)
 featured: true
 status: "Live"
 role: "Tech Lead"

@@ -14,10 +14,6 @@ tech_stack:
   - ONNX
   - Netron
   - Linux
-links:
-  - type: site
-    url: https://www.kpit.com/
-    label: PathPartner / KPIT (company project — code proprietary)
 featured: false
 status: "Internal"
 role: "Senior Software Engineer"
