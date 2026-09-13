@@ -11,7 +11,10 @@ tech_stack:
   - Firebase
   - Pandas
   - HMM
-links: []
+links:
+  - type: site
+    url: https://www.hcltech.com/
+    label: AgVerse (company project — code proprietary)
 featured: false
 status: "Internship"
 role: "Software Engineer Intern"

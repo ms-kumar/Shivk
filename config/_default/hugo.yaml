@@ -63,5 +63,6 @@ security:
   _merge: deep
   exec:
     allow: ['^dart-sass-embedded$', '^go$', '^git$', '^node$', '^npx$', '^postcss$', '^tailwindcss$']
+ignoreLogs = ['missing-icon-custom-huggingface']
 sitemap:
   _merge: deep
