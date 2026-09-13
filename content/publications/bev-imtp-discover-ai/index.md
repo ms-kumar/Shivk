@@ -13,6 +13,10 @@ publication_types: ['article-journal']
 publication:
   name: 'Discover Artificial Intelligence'
   short_name: 'Discover AI'
+  publisher: 'Springer Nature'
+  volume: '6'
+  issue: '1'
+  article_number: '811'
 peer_reviewed: true
 abstract: >-
   Trajectory prediction is a critical component of autonomous driving systems,
@@ -45,4 +49,11 @@ projects: []
 slides: ''
 ---
 
-Read the paper via [DOI](https://doi.org/10.1007/s44163-026-01970-1).
+## Publication Details
+
+- **Journal:** Discover Artificial Intelligence
+- **Publisher:** Springer Nature
+- **Published online:** 16 August 2026
+- **Volume and issue:** 6(1)
+- **Article:** 811
+- **DOI:** [10.1007/s44163-026-01970-1](https://doi.org/10.1007/s44163-026-01970-1)
