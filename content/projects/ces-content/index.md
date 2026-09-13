@@ -31,4 +31,8 @@ highlights:
 - Created end-to-end training and testing pipelines.
 - Used LIME for YOLO feature extraction and model visualization.
 
+## Tech Stack
+
+- Python, PyTorch, mmdet, SOLOv2, OpenCV, YOLO, LIME, and Linux.
+
 <!--more-->

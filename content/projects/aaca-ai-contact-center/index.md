@@ -39,4 +39,8 @@ highlights:
 - Packaged MongoDB, Redis, Milvus, MinIO, and Postgres with Docker Compose.
 - Prepared the services for Cloud Run deployment.
 
+## Tech Stack
+
+- Python, FastAPI, WebSockets, OpenAI Realtime API, Twilio, Milvus, Redis, MongoDB, Docker, MinIO, Postgres, JWT, and Cloud Run.
+
 <!--more-->

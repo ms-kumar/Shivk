@@ -39,4 +39,8 @@ highlights:
 - Added Prometheus metrics for system monitoring.
 - Delivered a fully offline Docker Compose deployment for RHEL 9 air-gapped VMs.
 
+## Tech Stack
+
+- Python, FastAPI, Docling, Jina v5, Milvus, BM25, ModernBERT, vLLM, OpenAI-compatible APIs, Redis, FAISS, Prometheus, Docker, and RHEL 9.
+
 <!--more-->

@@ -35,4 +35,8 @@ highlights:
 - Used Netron to inspect and validate exported model graphs.
 - Focused on high-performance execution across training and inference workloads.
 
+## Tech Stack
+
+- Python, C++, PyTorch, TensorFlow, TPC kernels, ONNX, Netron, and Linux.
+
 <!--more-->

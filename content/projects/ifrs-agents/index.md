@@ -32,4 +32,8 @@ highlights:
 - Used PostgreSQL on Cloud SQL for persistent finance data.
 - Added Prometheus observability and Cloud Run deployment support.
 
+## Tech Stack
+
+- Python, Google ADK, Vertex AI, FastAPI, Cloud SQL, PostgreSQL, Prometheus, Docker, and Cloud Run.
+
 <!--more-->

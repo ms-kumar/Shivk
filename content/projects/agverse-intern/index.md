@@ -30,4 +30,8 @@ highlights:
 - Implemented Baum-Welch algorithm-based parameter estimation.
 - Performed hidden Markov model state estimation for product analytics.
 
+## Tech Stack
+
+- Python, Firebase, Pandas, and Hidden Markov Models (HMM).
+
 <!--more-->

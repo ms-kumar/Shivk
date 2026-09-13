@@ -32,4 +32,8 @@ highlights:
 - Deployed the pipeline on Qualcomm hardware for realtime edge processing.
 - Optimized the runtime to reduce CPU usage by 75%.
 
+## Tech Stack
+
+- Python, C++, PyTorch, ONNX, Qualcomm SDKs, and Linux.
+
 <!--more-->
